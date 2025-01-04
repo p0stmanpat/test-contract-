@@ -1,0 +1,16 @@
+{
+    "name": "NFT #1",
+    "description": "This is a sample NFT.",
+    "image": "ipfs://<IPFS_HASH>/image1.png",
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "Red"
+      }
+    ]
+  }
+  
